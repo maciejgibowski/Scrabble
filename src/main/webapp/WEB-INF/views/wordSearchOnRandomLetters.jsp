@@ -25,6 +25,7 @@
 	<br>
 	<font size="3">${wordAsk}</font>
 	<br>
+	<br>
 	<a href="<c:url value='/'/>">Wróć na główną</a>
 	<br>
 
